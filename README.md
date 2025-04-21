@@ -1,5 +1,7 @@
 # golang-udemy-course
 
+## Overview
+
 This course is the ultimate comprehensive resource for learning the Go Programming Language.
 
 This course is perfect for both beginners and experienced developers. The course is full of examples, hands-on exercises, solutions to the hands-on exercises, and an amazing code repository.
@@ -9,3 +11,7 @@ This course is taught by one of the world's leading Go Programming Trainers, Tod
 This course has a tremendous amount of content and resources so that you can learn everything you need to know - whatever is appropriate for your ability level.
 
 When you enroll in this course, you will have lifetime access to the course. You will be able to learn at your own pace. You will always be able to come back to the content to review it, or learn additional concepts when you are ready for them.
+
+## Disclaimer
+
+This is a set of examples and documents to follow along the course and track my progress.  
